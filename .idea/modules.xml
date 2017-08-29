@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/NetworkMapper.iml" filepath="$PROJECT_DIR$/NetworkMapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nmap-app/nmap-app.iml" filepath="$PROJECT_DIR$/nmap-app/nmap-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nmap-lib/nmap-lib.iml" filepath="$PROJECT_DIR$/nmap-lib/nmap-lib.iml" />
+    </modules>
+  </component>
+</project>
